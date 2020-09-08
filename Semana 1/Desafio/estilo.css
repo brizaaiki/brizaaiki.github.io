@@ -1,0 +1,45 @@
+html, body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#fundo{
+    background-image: url(img/fundo.png);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    text-align: center;
+    margin: none;
+}
+
+#titulo{
+    color: white;
+    text-shadow: 2px 2px 8px #1f1a1a;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    padding-top: 10%;
+    margin: 0;
+    font-size: 500%;
+}
+
+#subtitulo{
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    line-height: 1.5;
+    font-size: 150%;
+    font-weight: 100;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    border-top: 3px white solid;
+}
+
+#acao{
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(42, 62, 240);
+}

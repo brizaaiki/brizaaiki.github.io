@@ -1,0 +1,19 @@
+.fundo{
+    background-color: aquamarine;
+}
+
+.icone{
+    width: 50px;
+}
+
+.destaque{
+    background-color: burlywood;
+}
+
+section{
+    padding: 20px;
+}
+
+.imagem{
+    width: 80%;
+}
